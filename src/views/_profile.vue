@@ -152,7 +152,4 @@ export default {
 .column-grid {
   grid-template-columns: 0.5fr 1.5fr;
 }
-.hi {
-  display: none;
-}
 </style>
